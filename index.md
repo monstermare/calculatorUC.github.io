@@ -6,6 +6,6 @@ Calculator for Unit Convert is a simple, easy-to-use, and powerfull calculator w
 
 ## Contact
 
-If you have any trouble with the calculator or want to request for better user experience, plase don't hesitate to send a message to [rhyme0318@me.com]
+If you have any trouble with the calculator or want to request for better user experience, plase don't hesitate to send a message to [rhyme0318@me.com](rhyme0318@me.com)
 
 Your care and support is very important to make this app better.
