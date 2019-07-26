@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Calculator for Unit Convert
 description: introducing easy-use calculator + unit converter!
+github:
+  is_project_page: false
